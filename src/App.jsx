@@ -16,7 +16,7 @@ export default function App() {
       <section>
         <h2>How the Page Was Built</h2>
         <p>This page was built by editing the <code>App.jsx</code> file (which has similar syntax to HTML) inside the Vite React project, which was generated when React was installed.</p>
-        <p>This page is also hosted for free using Github pages.</p>
+        <p>This page is also hosted for free using Cloudflare.</p>
       </section>
 
       <section>
